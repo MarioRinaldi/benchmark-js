@@ -1,0 +1,26 @@
+{
+  "name": "benchmarker",
+  "version": "1.0.0",
+  "description": "two options of an choice, who is better?",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goldhand/goldhand.git"
+  },
+  "keywords": [
+    "Profile",
+    "goldhand"
+  ],
+  "author": "Mario Felipe Rinaldi <lalo.rinaldi@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goldhand/goldhand/issues"
+  },
+  "homepage": "https://github.com/goldhand/goldhand#readme",
+  "dependencies": {
+    "benchmark": "^2.1.4"
+  }
+}
